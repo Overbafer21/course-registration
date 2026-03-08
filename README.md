@@ -22,16 +22,6 @@
 1. Убедитесь, что установлен JDK 11+.
 2. Скомпилируйте приложение:
 
-```bash
-javac CourseRegistrationSystem.java
-```
-
-3. Запустите:
-
-```bash
-java CourseRegistrationSystem
-```
-
 ## Структура
 
 - `CourseRegistrationSystem.java` — основной код интерфейса и логики регистрации.
